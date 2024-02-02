@@ -1,0 +1,15 @@
+{
+  "maximum_gas_price": 30,
+  "usd_threshold": 0.1,
+  "networks": {
+    "EVM_chain": {
+      "rpcs": [
+        "https://artio.rpc.berachain.com"
+      ]
+    }
+  },
+  "bera_amount_for_swap": {
+    "from": 0.001,
+    "to": 0.005
+  }
+}

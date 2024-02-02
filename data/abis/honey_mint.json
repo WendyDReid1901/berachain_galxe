@@ -1,0 +1,24 @@
+[
+  {
+	"constant": false,
+	"inputs": [
+      {
+		"name": "address_1",
+		"type": "string"
+      },
+      {
+		"name": "address_2",
+		"type": "string"
+	  },
+      {
+		"name": "amount",
+		"type": "uint256"
+	  }
+    ],
+	"name": "mint",
+	"outputs": [],
+	"payable": false,
+	"stateMutability": "nonpayable",
+	"type": "function"
+  }
+]
